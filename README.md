@@ -30,6 +30,7 @@ Create a model with the desired number of nuerons and one output neuron.
 Follow the same steps to create the Test data. But make sure you combine the training data with the test data.
 
 ## PROGRAM
+```
 Developed By:M.Gunasekhar
 Register Number: 212221240014
 
@@ -109,7 +110,7 @@ plt.xlabel('Time')
 plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
-
+```
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
