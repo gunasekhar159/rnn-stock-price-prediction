@@ -117,6 +117,8 @@ plt.show()
 <img width="392" alt="Screenshot 2023-09-27 094651" src="https://github.com/gunasekhar159/rnn-stock-price-prediction/assets/95043391/eef296e1-d545-4eae-8438-eb1839e1a5b0">
 
 ### Mean Square Error
+<img width="367" alt="Screenshot 2023-09-27 114707" src="https://github.com/gunasekhar159/rnn-stock-price-prediction/assets/95043391/190ce491-9af4-4aad-89d4-7b18e4a90a65">
+
 
 
 ## RESULT
